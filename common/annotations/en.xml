@@ -9,7 +9,7 @@ the LDML specification (http://unicode.org/reports/tr35/) Warnings: All cp
 values have U+FE0F characters removed. See /annotationsDerived/ for derived
 annotations.
 -->
-<ldml>
+<root>
 	<identity>
 		<version number="$Revision$"/>
 		<language type="en"/>
